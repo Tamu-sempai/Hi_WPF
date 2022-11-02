@@ -1,0 +1,42 @@
+C:\Users\307-04\Desktop\Практическая раббота №6\obj\Debug\net6.0-windows\Практическая раббота №6.csproj.AssemblyReference.cache
+C:\Users\307-04\Desktop\Практическая раббота №6\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\307-04\Desktop\Практическая раббота №6\obj\Debug\net6.0-windows\Практическая раббота №6_MarkupCompile.cache
+C:\Users\307-04\Desktop\Практическая раббота №6\bin\Debug\net6.0-windows\Практическая раббота №6.exe
+C:\Users\307-04\Desktop\Практическая раббота №6\bin\Debug\net6.0-windows\Практическая раббота №6.deps.json
+C:\Users\307-04\Desktop\Практическая раббота №6\bin\Debug\net6.0-windows\Практическая раббота №6.runtimeconfig.json
+C:\Users\307-04\Desktop\Практическая раббота №6\bin\Debug\net6.0-windows\Практическая раббота №6.dll
+C:\Users\307-04\Desktop\Практическая раббота №6\bin\Debug\net6.0-windows\Практическая раббота №6.pdb
+C:\Users\307-04\Desktop\Практическая раббота №6\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\307-04\Desktop\Практическая раббота №6\obj\Debug\net6.0-windows\Практическая раббота №6_MarkupCompile.lref
+C:\Users\307-04\Desktop\Практическая раббота №6\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\307-04\Desktop\Практическая раббота №6\obj\Debug\net6.0-windows\Практическая раббота №6.g.resources
+C:\Users\307-04\Desktop\Практическая раббота №6\obj\Debug\net6.0-windows\Практическая раббота №6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\307-04\Desktop\Практическая раббота №6\obj\Debug\net6.0-windows\Практическая раббота №6.AssemblyInfoInputs.cache
+C:\Users\307-04\Desktop\Практическая раббота №6\obj\Debug\net6.0-windows\Практическая раббота №6.AssemblyInfo.cs
+C:\Users\307-04\Desktop\Практическая раббота №6\obj\Debug\net6.0-windows\Практическая раббота №6.csproj.CoreCompileInputs.cache
+C:\Users\307-04\Desktop\Практическая раббота №6\obj\Debug\net6.0-windows\Практическая раббота №6.dll
+C:\Users\307-04\Desktop\Практическая раббота №6\obj\Debug\net6.0-windows\refint\Практическая раббота №6.dll
+C:\Users\307-04\Desktop\Практическая раббота №6\obj\Debug\net6.0-windows\Практическая раббота №6.pdb
+C:\Users\307-04\Desktop\Практическая раббота №6\obj\Debug\net6.0-windows\Практическая раббота №6.genruntimeconfig.cache
+C:\Users\307-04\Desktop\Практическая раббота №6\obj\Debug\net6.0-windows\ref\Практическая раббота №6.dll
+C:\Users\307-04\Desktop\Кисель\Практическая раббота №6\bin\Debug\net6.0-windows\Практическая раббота №6.exe
+C:\Users\307-04\Desktop\Кисель\Практическая раббота №6\bin\Debug\net6.0-windows\Практическая раббота №6.deps.json
+C:\Users\307-04\Desktop\Кисель\Практическая раббота №6\bin\Debug\net6.0-windows\Практическая раббота №6.runtimeconfig.json
+C:\Users\307-04\Desktop\Кисель\Практическая раббота №6\bin\Debug\net6.0-windows\Практическая раббота №6.dll
+C:\Users\307-04\Desktop\Кисель\Практическая раббота №6\bin\Debug\net6.0-windows\Практическая раббота №6.pdb
+C:\Users\307-04\Desktop\Кисель\Практическая раббота №6\obj\Debug\net6.0-windows\Практическая раббота №6.csproj.AssemblyReference.cache
+C:\Users\307-04\Desktop\Кисель\Практическая раббота №6\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\307-04\Desktop\Кисель\Практическая раббота №6\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\307-04\Desktop\Кисель\Практическая раббота №6\obj\Debug\net6.0-windows\Практическая раббота №6_MarkupCompile.cache
+C:\Users\307-04\Desktop\Кисель\Практическая раббота №6\obj\Debug\net6.0-windows\Практическая раббота №6_MarkupCompile.lref
+C:\Users\307-04\Desktop\Кисель\Практическая раббота №6\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\307-04\Desktop\Кисель\Практическая раббота №6\obj\Debug\net6.0-windows\Практическая раббота №6.g.resources
+C:\Users\307-04\Desktop\Кисель\Практическая раббота №6\obj\Debug\net6.0-windows\Практическая раббота №6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\307-04\Desktop\Кисель\Практическая раббота №6\obj\Debug\net6.0-windows\Практическая раббота №6.AssemblyInfoInputs.cache
+C:\Users\307-04\Desktop\Кисель\Практическая раббота №6\obj\Debug\net6.0-windows\Практическая раббота №6.AssemblyInfo.cs
+C:\Users\307-04\Desktop\Кисель\Практическая раббота №6\obj\Debug\net6.0-windows\Практическая раббота №6.csproj.CoreCompileInputs.cache
+C:\Users\307-04\Desktop\Кисель\Практическая раббота №6\obj\Debug\net6.0-windows\Практическая раббота №6.dll
+C:\Users\307-04\Desktop\Кисель\Практическая раббота №6\obj\Debug\net6.0-windows\refint\Практическая раббота №6.dll
+C:\Users\307-04\Desktop\Кисель\Практическая раббота №6\obj\Debug\net6.0-windows\Практическая раббота №6.pdb
+C:\Users\307-04\Desktop\Кисель\Практическая раббота №6\obj\Debug\net6.0-windows\Практическая раббота №6.genruntimeconfig.cache
+C:\Users\307-04\Desktop\Кисель\Практическая раббота №6\obj\Debug\net6.0-windows\ref\Практическая раббота №6.dll
